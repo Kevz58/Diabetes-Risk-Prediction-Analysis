@@ -11,8 +11,8 @@ This study analyzes diabetes risk prediction through three main hypotheses:
 
 **Key Features**
 
-Multiple ML Approaches: Logistic Regression, CART Decision Trees, LASSO Regression, Random Forest
-Recall-Optimized Models: Prioritizes detection of positive diabetes cases for medical screening
-Class Imbalance Handling: Implements undersampling techniques for balanced datasets
-Comprehensive Visualization: Correlation matrices, decision trees, performance metrics
-Rigorous Validation: 10-fold cross-validation and hyperparameter optimization
+- Multiple ML Approaches: Logistic Regression, CART Decision Trees, LASSO Regression, Random Forest
+- Recall-Optimized Models: Prioritizes detection of positive diabetes cases for medical screening
+- Class Imbalance Handling: Implements undersampling techniques for balanced datasets
+- Comprehensive Visualization: Correlation matrices, decision trees, performance metrics
+- Rigorous Validation: 10-fold cross-validation and hyperparameter optimization
