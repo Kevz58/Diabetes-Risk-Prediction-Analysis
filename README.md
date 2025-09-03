@@ -57,9 +57,9 @@ Institution: Simon Fraser University
 Semester: Summer 2025
 Team Members:
 
-Muneer Akbani
-Derek Lin
-Kevin Zhou
+- Muneer Akbani
+- Derek Lin
+- Kevin Zhou
 
 **Important Notes**
 
