@@ -17,6 +17,41 @@ This study analyzes diabetes risk prediction through three main hypotheses:
 - Comprehensive Visualization: Correlation matrices, decision trees, performance metrics
 - Rigorous Validation: 10-fold cross-validation and hyperparameter optimization
 
+**Dataset Information**
+- Source: BRFSS 2021 - Diabetes Health Indicators Dataset
+- Size: 253,680 survey responses
+- Features: 21 health-related variables
+- Target: Diabetes status (0=Healthy, 1=Pre-diabetic, 2=Diabetic)
+- 
+**Key Variables**
+
+**Demographic**: Age, Sex, Income, Education
+**Lifestyle**: Smoking, Alcohol Consumption, Physical Activity, Diet
+**Health Metric**s: BMI, Blood Pressure, Cholesterol
+**Medical History**: Heart Disease, Stroke, Healthcare Access
+
+**Methodology**
+
+Data Preprocessing
+
+- Factor conversion for categorical variables
+- Missing value handling (BMI imputation)
+- Class imbalance correction through undersampling
+- Creation of binary classification datasets
+
+**Model Development**
+- Logistic Regression: Baseline models with interaction terms
+- CART Decision Trees: Interpretable rule-based classification
+- LASSO Regression: Regularized feature selection
+- Random Forest: Ensemble learning with hyperparameter tuning
+
+**Evaluation Metrics**
+
+Primary: Recall (sensitivity) - critical for medical screening
+Secondary: Precision, Accuracy, F1-Score
+Validation: 10-fold cross-validation
+
+
 **Prerequisites**
 
 - R (>= 4.0.0)
