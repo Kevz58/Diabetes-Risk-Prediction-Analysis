@@ -47,9 +47,9 @@ Data Preprocessing
 
 **Evaluation Metrics**
 
-Primary: Recall (sensitivity) - critical for medical screening
-Secondary: Precision, Accuracy, F1-Score
-Validation: 10-fold cross-validation
+- Primary: Recall (sensitivity) - critical for medical screening
+- Secondary: Precision, Accuracy, F1-Score
+- Validation: 10-fold cross-validation
 
 
 **Prerequisites**
