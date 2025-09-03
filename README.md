@@ -86,11 +86,10 @@ This study analyzes diabetes risk prediction by testing three main hypotheses:
 ## How to Run
 
 1.  Ensure you have the [prerequisites](#prerequisites) installed.
-2.  Clone this repository or download the `Diabetes_Risk_Analysis.Rmd` R Markdown file.
+2.  Clone this repository or download the `462ProjectCodeBaseFinal - Team 1.R` file
 3.  Open the file in RStudio.
 4.  Install any missing packages using the code in the Prerequisites section.
-5.  Click "Knit" to run the entire analysis and generate the report.
-
+5.  Run the entire file using Ctrl + Alt + E (Windows/Linux) or Cmd + Option + E (Mac)
 ## Prerequisites
 
 - **R** (>= 4.0.0)
