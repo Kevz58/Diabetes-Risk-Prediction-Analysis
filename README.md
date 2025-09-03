@@ -51,6 +51,21 @@ Data Preprocessing
 - Secondary: Precision, Accuracy, F1-Score
 - Validation: 10-fold cross-validation
 
+**Academic Context**
+Course: BUS 462 Business Analytics
+Institution: Simon Fraser University
+Semester: Summer 2025
+Team Members:
+
+Muneer Akbani
+Derek Lin
+Kevin Zhou
+
+**Important Notes**
+
+Medical Disclaimer: This project is for educational purposes only and should not be used for actual medical diagnosis
+Data Privacy: All data used is publicly available and de-identified
+Reproducibility: Set seed values are used for consistent results
 
 **Prerequisites**
 
