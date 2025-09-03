@@ -16,3 +16,19 @@ This study analyzes diabetes risk prediction through three main hypotheses:
 - Class Imbalance Handling: Implements undersampling techniques for balanced datasets
 - Comprehensive Visualization: Correlation matrices, decision trees, performance metrics
 - Rigorous Validation: 10-fold cross-validation and hyperparameter optimization
+
+**Prerequisites**
+
+- R (>= 4.0.0)
+- RStudio (recommended)
+
+Additionally, install the required R packages by running the following code in RStudio's Console:
+
+```r
+install.packages(c(
+  "caret", "rpart", "rpart.plot", "reshape2", "ggplot2",
+  "data.table", "pastecs", "PerformanceAnalytics", "corrplot",
+  "tidyverse", "stargazer", "glmnet", "dplyr", "broom",
+  "randomForest"
+))
+
